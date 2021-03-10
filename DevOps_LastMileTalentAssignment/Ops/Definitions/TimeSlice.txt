@@ -1,0 +1,1 @@
+A very short interval of time that gets allocated to a process for CPU execution

@@ -1,0 +1,1 @@
+Connection points that we can connect devices to that extend the functionality of our computer

@@ -1,0 +1,1 @@
+a program that interprets text commands and sends them to the os to execute

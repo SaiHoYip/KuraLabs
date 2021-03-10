@@ -1,0 +1,2 @@
+used to describe situations where companies might run things like their most sensitive proprietary tech on a private cloud while entrusting their less sensitive
+servers to a public cloud

@@ -1,0 +1,1 @@
+files that record system events on a computer like a system diary

@@ -1,0 +1,3 @@
+A technological approach where computing resources are provisioned in a shared way so that users get what they need when they need.
+
+a new model in computing where large clusters of machines let us use the total resources available in a better way

@@ -1,0 +1,1 @@
+The combination of hard drive space and RAM that acts like memory our processes can use

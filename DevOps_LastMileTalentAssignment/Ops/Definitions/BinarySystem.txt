@@ -1,0 +1,6 @@
+The communication that a computer uses, also known as a base-2 numeral system.
+
+Ex: 10101010
+
+8 bits = 1 byte
+(2^8)

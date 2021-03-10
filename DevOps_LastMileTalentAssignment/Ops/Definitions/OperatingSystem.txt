@@ -1,0 +1,1 @@
+Allows hardware to communicate with the system

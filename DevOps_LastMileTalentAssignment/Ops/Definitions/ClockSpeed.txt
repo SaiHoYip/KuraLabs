@@ -1,0 +1,1 @@
+maximum number of clock cycles that it can handle in a certain time period

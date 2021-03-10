@@ -1,0 +1,3 @@
+Assigns our binary values to characters, so that we as humans can read them.
+
+Ex: Ascii UTF-8 

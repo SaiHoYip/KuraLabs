@@ -1,0 +1,1 @@
+improves faster handling of data because the data isn't stored as one long piece and can be accessed quicker

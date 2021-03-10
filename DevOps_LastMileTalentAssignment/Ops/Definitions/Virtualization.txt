@@ -1,0 +1,1 @@
+a single physical machine called a host could run many individual virtual instances called guest

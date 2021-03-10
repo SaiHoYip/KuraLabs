@@ -1,0 +1,1 @@
+The appended part of a filename that tells us what type of file it is in certain operating systems

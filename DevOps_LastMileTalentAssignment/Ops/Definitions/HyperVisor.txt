@@ -1,0 +1,1 @@
+a piece of software that runs and manages virtual machines while also offering the guests a virtual operating platform that's indistinguishable from actual hardware

@@ -1,0 +1,1 @@
+Creates process, efficiently schedules them, and manages how processes are terminated.
