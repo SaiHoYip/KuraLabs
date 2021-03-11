@@ -1,0 +1,11 @@
+numbers = [5,2,1,3,4]
+numbers.append(10)
+numbers.insert(2,11)
+numbers.remove(5)
+numbers.pop()
+numbers.reverse()
+#numbers.sort()
+print(50 in numbers)
+print(numbers.index(2))
+print(numbers)
+numbers2=numbers.copy()
