@@ -9,5 +9,4 @@ while i < maxGuess:
         print("Wrong! Try again please.")
     else:
         print("Correct! congrats you made the correct guess")
-else:
-    print("You made the maximum number of guesses. Try again!")
+        i = i + 3
